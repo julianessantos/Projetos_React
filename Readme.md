@@ -1,0 +1,1 @@
+Repositório criado para armazenar e avaliar meu progresso e desenvolvimentos durante o curso de React.
